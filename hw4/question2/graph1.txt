@@ -1,0 +1,11 @@
+6
+zurich amsterdam hamburg stockholm kayseri copenhagen 
+stockholm kayseri 5
+kayseri hamburg 3
+hamburg copenhagen 1
+stockholm copenhagen 3
+copenhagen amsterdam 11
+amsterdam kayseri 15
+kayseri stockholm 5
+kayseri zurich 2
+zurich stockholm 7
